@@ -231,3 +231,6 @@ elif choose == "Contact":
         with col3:
             st.markdown("Website", unsafe_allow_html=True)
             st.markdown("www.plantdisease.com", unsafe_allow_html=True)
+
+
+
