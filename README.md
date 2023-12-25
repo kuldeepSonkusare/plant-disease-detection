@@ -1,1 +1,2 @@
 # plant-disease-detection
+We have implemented Leaf disease detection system using Machine Learning to identify plant diseases and classify them. Engineered an innovative solution in agriculture by integrating TensorFlow within Machine Learning methodologies. This project's significance lies in the fusion of advanced TensorFlow technology with agriculture, fostering sustainable crop production through cutting-edge technological interventions.
